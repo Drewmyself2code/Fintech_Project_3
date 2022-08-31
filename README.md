@@ -1,4 +1,4 @@
-# Fintech_Project_2
+# Fintech_Project_3
 ![](https://blockupdate.io/wp-content/uploads/2019/02/price-chart.jpg)
 
 Introduction:
